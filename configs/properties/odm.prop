@@ -8,3 +8,6 @@ ro.vendor.touchfeature.type=247
 
 # Marketname
 ro.product.marketname=Xiaomi 17 Pro Max
+
+# USB
+vendor.usb.product_string=Xiaomi 17 Pro Max
