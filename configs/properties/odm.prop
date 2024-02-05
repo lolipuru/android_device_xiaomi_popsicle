@@ -1,3 +1,6 @@
+# Bluetooth
+bluetooth.device.default_name=Xiaomi 17 Pro Max
+
 # Display
 persist.sys.miui_resolution=1220,2656,520
 ro.vendor.mi_sf.supported_automode_maxfps_list=60,120
