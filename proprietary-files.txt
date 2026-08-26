@@ -1773,6 +1773,7 @@ odm/etc/init/android.hardware.uwbhal-qti.rc
 odm/etc/permissions/android.hardware.uwb.xml
 odm/etc/vintf/manifest/uwbhal-saidl.xml
 odm/lib64/android.hardware.uwb@impl-qti.so
+vendor/lib64/libbase.so:vendor/lib64/libbase-v36.so;FIX_SONAME
 
 # Vibrator
 odm/firmware/0_click_P_RTP.bin:vendor/etc/vibrator/effect_0.bin

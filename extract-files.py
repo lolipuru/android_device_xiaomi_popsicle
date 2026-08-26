@@ -128,6 +128,13 @@ blob_fixups: blob_fixups_user_type = {
             'libtinyxml2.so',
             'libtinyxml2-v36.so'
         ),
+    (
+       'odm/lib64/android.hardware.uwb@impl-qti.so',
+    ): blob_fixup()
+        .replace_needed(
+            'libbase.so',
+            'libbase-v36.so'
+        ),
 }  # fmt: skip
 
 
