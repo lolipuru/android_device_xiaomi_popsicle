@@ -21,7 +21,8 @@ PRODUCT_PACKAGES += \
     ApertureOverlayPopsicle \
     FrameworksResPopsicle \
     SettingsOverlayPopsicle \
-    SystemUIResPopsicle
+    SystemUIResPopsicle \
+    UwbResPopsicle
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
