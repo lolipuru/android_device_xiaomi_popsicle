@@ -86,6 +86,10 @@ odm/lib64/bm6a81v08s14n03.bin
 odm/lib64/bm6a81v08s14n04.bin
 odm/lib64/bm6a81v08s14n07.bin
 odm/lib64/bm6a81v08s14n09.bin
+odm/lib64/bm6a81v08s14n100.bin
+odm/lib64/bm6a81v08s14n101.bin
+odm/lib64/bm6a81v08s14n102.bin
+odm/lib64/bm6a81v08s14n103.bin
 odm/lib64/bm6a81v08s14n10.bin
 odm/lib64/bm6a81v08s14n11.bin
 odm/lib64/bm6a81v08s14n13.bin
@@ -1782,3 +1786,13 @@ odm/firmware/2_tick_P_RTP.bin:vendor/etc/vibrator/effect_2.bin
 odm/firmware/3_thud_P_RTP.bin:vendor/etc/vibrator/effect_3.bin
 odm/firmware/4_pop_P_RTP.bin:vendor/etc/vibrator/effect_4.bin
 odm/firmware/5_heavyClick_P_RTP.bin:vendor/etc/vibrator/effect_5.bin
+odm/firmware/cs40l26-a2h.bin
+odm/firmware/cs40l26-a2h1.bin
+odm/firmware/cs40l26-calib.bin
+odm/firmware/cs40l26-calib.wmfw
+odm/firmware/cs40l26-dbc.bin
+odm/firmware/cs40l26-dvl.bin
+odm/firmware/cs40l26-lf0t.bin
+odm/firmware/cs40l26-svc.bin
+odm/firmware/cs40l26.bin
+odm/firmware/cs40l26.wmfw
