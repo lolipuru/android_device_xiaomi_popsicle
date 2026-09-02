@@ -8,6 +8,7 @@ bluetooth.device.default_name=Xiaomi 17 Pro Max
 persist.sys.miui_resolution=1220,2656,520
 ro.vendor.mi_sf.supported_automode_maxfps_list=60,120
 ro.vendor.touchfeature.type=247
+vendor.display.enable_brightness_drm_prop=1
 
 # Fingerprint
 persist.vendor.fingerprint.type=udfps
