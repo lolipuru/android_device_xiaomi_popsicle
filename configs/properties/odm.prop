@@ -12,7 +12,7 @@ vendor.display.enable_brightness_drm_prop=1
 
 # Fingerprint
 persist.vendor.fingerprint.type=udfps
-persist.vendor.fingerprint.sensor_location=600|2290|109
+persist.vendor.fingerprint.sensor_location=600|2320|109
 
 # Marketname
 ro.product.marketname=Xiaomi 17 Pro Max
