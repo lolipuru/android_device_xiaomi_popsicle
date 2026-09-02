@@ -24,6 +24,10 @@ PRODUCT_PACKAGES += \
     SystemUIResPopsicle \
     UwbResPopsicle
 
+# Touch
+PRODUCT_COPY_FILES += \
+   $(LOCAL_PATH)/configs/keylayout/Xiaomi_Touch_Input_1.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/Xiaomi_Touch_Input_1.idc
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
