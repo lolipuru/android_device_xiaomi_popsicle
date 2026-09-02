@@ -1032,6 +1032,8 @@ odm/lib64/camera/zsl/com.xiaomi.zsl.single.so
 odm/lib64/camera/zsl/com.xiaomi.zsl.sr.so
 
 # Camera (vendor)
+vendor/etc/camera/cameraopt_perf.json
+vendor/etc/camera/cameraopt_vendor.json
 vendor/lib64/camera/bitmlconfig.bin
 vendor/lib64/camera/camxfl115indices.bin
 vendor/lib64/camera/camxfl300v1indices.bin
@@ -1733,10 +1735,13 @@ odm/lib64/libtouchreport_sensor.so
 odm/lib64/libtouchreport.so
 
 # Touchscreen (Goodix / Rear)
+odm/etc/input-port-associations.xml
 odm/firmware/goodix_cfg_group_popsicle_csot.bin
 odm/firmware/goodix_firmware_popsicle_csot.bin
 odm/firmware/goodix_test_limits_255.csv
 odm/firmware/popsicle_goodix_thp_config.ini
+product/etc/displayconfig/display_id_4630946457447247251.xml
+product/etc/displayconfig/display_id_4630946457447247252.xml
 
 # Touchscreen (Synaptics / Main)
 odm/firmware/popsicle_syna_thp_config.ini
